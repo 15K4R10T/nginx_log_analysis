@@ -130,5 +130,5 @@ VIsualisasi disimpan sebagai: status_distribution.png dan hourly_traffic.png
 
 # VISUALIZATION
 
-![hourly traffic](hourly_traffic.png)
-![status distribtion](status_distribution.png)
+![hourly traffic](/hourly_traffic.png)
+![status distribtion](/status_distribution.png)
