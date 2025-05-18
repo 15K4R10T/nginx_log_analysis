@@ -127,3 +127,8 @@ VIsualisasi disimpan sebagai: status_distribution.png dan hourly_traffic.png
 - FIND TOP 10 ERROR PATHS
 - FIND TOP 10 USER AGENTS
 - VISUALING THE TRAFFIC AND THE DATA status_distribution.png dan hourly_traffic.png
+
+# VISUALIZATION
+
+![hourly traffic](hourly_traffic.png)
+![status distribtion](status_distribution.png)
