@@ -1,5 +1,6 @@
 # MANUALS 
 
+<pre>
 this tools using for browser forensic and analysis your browser access.log you can file the ip, path and anything in source code.
 
 for the example:
@@ -127,6 +128,8 @@ VIsualisasi disimpan sebagai: status_distribution.png dan hourly_traffic.png
 - FIND TOP 10 ERROR PATHS
 - FIND TOP 10 USER AGENTS
 - VISUALING THE TRAFFIC AND THE DATA status_distribution.png dan hourly_traffic.png
+
+</pre>
 
 # VISUALIZATION
 
