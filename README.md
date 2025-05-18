@@ -4,7 +4,7 @@
 this tools using for browser forensic and analysis your browser access.log you can file the ip, path and anything in source code.
 
 for the example:
-ython3 finder.py access.log
+python3 finder.py access.log
 
 
                                                                    
